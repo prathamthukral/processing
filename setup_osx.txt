@@ -1,4 +1,0 @@
-open terminal
-cd ~
-cd documents/coding/processingjs/js
-nodemon server.js
